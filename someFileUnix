@@ -1,0 +1,13 @@
+/etc/services
+contain some common ports for service
+
+/etc/hosts
+ip address for host for DNS
+
+/etc/ethers
+ip address to Mac database, for RARP server
+
+/etc/networks
+route table
+
+/etc/netstart

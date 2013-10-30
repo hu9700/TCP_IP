@@ -1,0 +1,21 @@
+type of network
+
+type A
+| |7 digits		|24 digits	|
+|0|net number	|host number|
+
+type B
+|   |14 digits	|16 digits	|
+|1|0|net number	|host number|
+
+type C
+|     |21 digits	|8 digits	|
+|1|1|0|net number	|host number|
+
+type D
+|       |28 digits				|
+|1|1|1|0|boardcast group number	|
+
+type E
+|         |27 digits|
+|1|1|1|1|0|reserved	|

@@ -1,0 +1,2 @@
+gethostbyname
+	change hostname to 32bit ip address

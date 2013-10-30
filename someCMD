@@ -1,0 +1,29 @@
+tcpdump
+ifconfig
+netstat
+arp 
+	arp -a
+		check the arp cache
+	arp -d
+		delete the some cache
+	arp -s (temp)
+		add cache
+	arp -s pub
+		do arp proxey
+iptables
+	firewall rules
+	
+ping -R
+	record the route path
+	
+traceroute
+
+netstat -r
+	list route table
+	
+route add
+	add route to route talbe
+	eg. route add default sun 1
+		route add slip bsdi 1
+		last parameter means metric, if it's begger than 0, we should make G symbol, 
+
