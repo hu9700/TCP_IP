@@ -15,6 +15,9 @@ type C
 type D
 |       |28 digits				|
 |1|1|1|0|boardcast group number	|
+多播组
+244.0.0.0 到 239.255.255.255
+
 
 type E
 |         |27 digits|
