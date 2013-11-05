@@ -11,3 +11,10 @@ ip address to Mac database, for RARP server
 route table
 
 /etc/netstart
+
+dns根服务器获取
+ftp.rs.internic.net 或 nic.ddn.mil
+获取文件netinfo/root-servers.txt
+
+
+

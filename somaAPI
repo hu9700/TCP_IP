@@ -1,2 +1,5 @@
 gethostbyname
 	change hostname to 32bit ip address
+gethostbyaddr
+	used by dns, change from 32bit ip to host name
+	
