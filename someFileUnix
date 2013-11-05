@@ -16,5 +16,12 @@ dns根服务器获取
 ftp.rs.internic.net 或 nic.ddn.mil
 获取文件netinfo/root-servers.txt
 
-
+/etc/resolv.conf
+告诉名字解析器做什么
+如
+nameserver 140.252.1.54
+domain tuc.noao.edu
+第一行给出名字服务器noao.edu的ip地址，最多可以说明三个服务器行
+域名行说明默认域名，如果要查找的域名不是一个完整合格的域名（以句点结束），
+那么默认域名.tuc.noao.edu将加到待查名后。
 
