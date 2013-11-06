@@ -6,7 +6,8 @@
 运输层
 应用：
 	TCP
-	UDP
+	UDP	|-DNS
+		|-
 	ICMP
 	IGMP
 
