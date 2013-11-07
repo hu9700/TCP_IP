@@ -27,3 +27,14 @@ route add
 		route add slip bsdi 1
 		last parameter means metric, if it's begger than 0, we should make G symbol, 
 
+host
+DNS look up utility
+
+nslookup
+
+dic
+domain Internet Groper
+
+doc
+sheel of dic
+Domain Obscenity Control
